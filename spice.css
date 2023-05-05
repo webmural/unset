@@ -1,0 +1,15 @@
+:root {
+  background: darkviolet;
+  color: #ee1;
+  background-image: radial-gradient(darkviolet, blueviolet);
+}
+
+:any-link {
+  background: hotpink;
+  color: indigo;
+}
+
+::selection {
+  background: #ee1;
+  color: darkviolet;
+}
